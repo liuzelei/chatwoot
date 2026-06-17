@@ -86,6 +86,17 @@
         "NOTE": "管理您账户的额外安全功能。",
         "MFA_BUTTON": "管理两步验证"
       },
+      "SESSIONS_SECTION": {
+        "TITLE": "活跃会话",
+        "NOTE": "这些是当前已登录您账户的设备。",
+        "CURRENT": "当前会话",
+        "REVOKE": "撤销",
+        "REVOKE_SUCCESS": "会话撤销成功",
+        "REVOKE_ERROR": "无法撤销会话。请重试。",
+        "FETCH_ERROR": "无法获取会话。请重试。",
+        "LAST_ACTIVE": "上次活跃",
+        "UNKNOWN_DEVICE": "未知设备"
+      },
       "ACCESS_TOKEN": {
         "TITLE": "访问令牌",
         "NOTE": "如果您正在构建基于 API 的集成，这个令牌可以被使用",
@@ -305,6 +316,16 @@
     "MENTIONED_CONVERSATIONS": "提及",
     "PARTICIPATING_CONVERSATIONS": "参与者",
     "UNATTENDED_CONVERSATIONS": "未处理",
+    "UNREAD_COUNT_TOOLTIP": {
+      "ALL": "所有未读会话总数",
+      "INBOX": "此收件箱中的未读会话总数",
+      "LABEL": "此标签中的未读会话总数",
+      "TEAM": "此团队中的未读会话总数",
+      "FOLDER": "此文件夹中的未读会话总数",
+      "MENTIONS": "提及您的未读会话",
+      "PARTICIPATING": "您参与的未读会话",
+      "UNATTENDED": "未处理的未读会话"
+    },
     "REPORTS": "报告",
     "SETTINGS": "设置",
     "CONTACTS": "联系人",
@@ -378,6 +399,21 @@
       "TEXT": "自动标记离线状态",
       "INFO_TEXT": "当您不使用应用程序或仪表板时，让系统自动标记您离线。",
       "INFO_SHORT": "当您不使用应用程序时自动标记离线。"
+    },
+    "SORT_TOOLTIP": "排序",
+    "SORT_BY": "排序方式",
+    "SORT_GROUPS": {
+      "CREATED": "按创建日期排序",
+      "ALPHABETICAL": "按字母顺序排序",
+      "UNREAD_COUNT": "按未读数排序"
+    },
+    "SORT_OPTIONS": {
+      "CREATED_DESC": "最新在前",
+      "CREATED_ASC": "最早在前",
+      "ALPHABETICAL_ASC": "升序（A - Z）",
+      "ALPHABETICAL_DESC": "降序（Z - A）",
+      "UNREAD_COUNT_DESC": "最高在前",
+      "UNREAD_COUNT_ASC": "最低在前"
     },
     "DOCS": "阅读文档",
     "SECURITY": "安全",

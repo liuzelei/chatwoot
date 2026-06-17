@@ -33,6 +33,9 @@ zh_CN:
     login_saml_user: 此账户使用 SAML 身份验证，请通过您组织的 SAML 身份提供商登录。
     saml_not_available: 此安装环境不支持 SAML 身份验证。
     inbox_deletetion_response: 您的收件箱删除请求将在一段时间内处理。
+  profile_settings:
+    sessions:
+      cannot_revoke_current: 您不能撤销当前会话。
   errors:
     account:
       reporting_timezone:

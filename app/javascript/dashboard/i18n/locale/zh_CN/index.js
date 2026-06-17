@@ -13,6 +13,7 @@ import components from './components.json';
 import contact from './contact.json';
 import contactFilters from './contactFilters.json';
 import conversation from './conversation.json';
+import contentTemplates from './contentTemplates.json';
 import csatMgmt from './csatMgmt.json';
 import customRole from './customRole.json';
 import datePicker from './datePicker.json';
@@ -33,11 +34,14 @@ import report from './report.json';
 import resetPassword from './resetPassword.json';
 import search from './search.json';
 import setNewPassword from './setNewPassword.json';
+import sessionLimit from './sessionLimit.json';
 import settings from './settings.json';
 import signup from './signup.json';
 import sla from './sla.json';
+import snooze from './snooze.json';
 import teamsSettings from './teamsSettings.json';
 import whatsappTemplates from './whatsappTemplates.json';
+import yearInReview from './yearInReview.json';
 
 export default {
   ...advancedFilters,
@@ -55,6 +59,7 @@ export default {
   ...contact,
   ...contactFilters,
   ...conversation,
+  ...contentTemplates,
   ...csatMgmt,
   ...customRole,
   ...datePicker,
@@ -75,9 +80,12 @@ export default {
   ...resetPassword,
   ...search,
   ...setNewPassword,
+  ...sessionLimit,
   ...settings,
   ...signup,
   ...sla,
+  ...snooze,
   ...teamsSettings,
   ...whatsappTemplates,
+  ...yearInReview,
 };

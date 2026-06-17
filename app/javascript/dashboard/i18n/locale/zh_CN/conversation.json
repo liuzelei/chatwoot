@@ -401,7 +401,8 @@
       "VIEW_ALL": "查看全部",
       "SHOW_LESS": "收起",
       "MORE_COUNT": "+{count}",
-      "UNTITLED_FILE": "未命名文件"
+      "UNTITLED_FILE": "未命名文件",
+      "JUMP_TO_MESSAGE": "跳转到消息"
     },
     "SHOPIFY": {
       "ORDER_ID": "订单 #{id}",

@@ -3,5 +3,33 @@
     "PLACEHOLDER": "搜索表情符号",
     "NOT_FOUND": "没有适合你的搜索结果",
     "REMOVE": "删除"
+  },
+  "EMOJI_ICON_PICKER": {
+    "TABS": {
+      "ICONS": "图标",
+      "EMOJIS": "表情"
+    },
+    "SEARCH_EMOJI": "搜索表情…",
+    "SEARCH_ICON": "搜索图标…",
+    "FREQUENTLY_USED": "常用",
+    "NO_EMOJI": "没有匹配的表情",
+    "NO_ICON": "没有匹配的图标",
+    "REMOVE": "移除",
+    "STYLE": {
+      "OUTLINE": "线框图标",
+      "FILLED": "填充图标"
+    },
+    "COLORS": {
+      "SLATE": "石板灰",
+      "RED": "红色",
+      "ORANGE": "橙色",
+      "AMBER": "琥珀色",
+      "GREEN": "绿色",
+      "TEAL": "青绿色",
+      "BLUE": "蓝色",
+      "INDIGO": "靛蓝色",
+      "VIOLET": "紫罗兰色",
+      "PINK": "粉色"
+    }
   }
 }
